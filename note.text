@@ -1,0 +1,11 @@
+DOM( document object model )
+..........................
+
+DOM methods
+-----------
+1.document.getElementsByTagName('tagname')
+2.document.getElementById('id')
+3.document.getElementsBYClassName('class')
+document.querySelector('tagname/#id/.class')-single element
+document.querySelectorAll('tagname/#id/.class')-all elements
+
